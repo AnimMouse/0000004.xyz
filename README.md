@@ -1,18 +1,12 @@
 # Welcome to 0000004.xyz
 ## A website for the number 4, my favorite number.
-### [Anim Mouse's](https://www.animmouse.com) project domain.
+### [Anim Mouse's](https://www.animmouse.com) FreeDNS domain.
 
-This is where I host my internet projects.
+This is a [FreeDNS Afraid](https://freedns.afraid.org) domain.
 
-## Projects hosted here
-1. [Hacker Laws Website](https://hacker-laws.0000004.xyz)
-2. [Happy Tree Friends SWF](https://happytreefriends.0000004.xyz)
-3. [LanguageTool API](https://languagetool.0000004.xyz)
-4. [H5P Standalone hosted on GitHub Pages example site](https://h5p-standalone.0000004.xyz)
-5. [Test page for setup-cloudflared](https://setup-cloudflared.0000004.xyz)
-6. [SOCKS5 Proxy Actions](https://socks5-proxy-actions.0000004.xyz)
+0000004.xyz is being [shared via Free DNS](https://freedns.afraid.org/subdomain/edit.php?edit_domain_id=1386046), a dynamic DNS domain sharing project where members can setup, and administrate their DNS entries on their own remote internet connected systems in real time.
+
+Anyone can register their subdomains here.
 
 ## Why here?
 Because this domain is a 1.111B Class domain on the .xyz TLD where the price is just 99¢ per year, every year.
-
-And in order not to taint the reputation of my main domain.
